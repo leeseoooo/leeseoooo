@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### My name is Lee Seohyeon
+### Have a nice day ~!
 <!--
 **leeseoooo/leeseoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
